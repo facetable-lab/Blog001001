@@ -1,0 +1,24 @@
+{
+  "name": "blog001001",
+  "version": "1.0.0",
+  "description": "blog on js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facetable-lab/Blog001001.git"
+  },
+  "keywords": [
+    "js",
+    "blog",
+    "javascript"
+  ],
+  "author": "Dmitry Ignatenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facetable-lab/Blog001001/issues"
+  },
+  "homepage": "https://github.com/facetable-lab/Blog001001#readme"
+}
